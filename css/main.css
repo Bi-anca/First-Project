@@ -1,0 +1,40 @@
+/*section-a styles*/
+#section-a h1{
+    text-align: center;
+    background-color: pink;
+    font-family: Arial, Helvetica, sans-serif
+}
+#section-a .row {
+    margin-top: 20px;
+}
+#section-a .card img {
+    width: 100%;
+    height: 200px;
+    padding-bottom: 20px;
+}
+    .card{
+        padding-bottom: 20px;
+    }
+
+#section-a .card:hover {
+    box-shadow: 3px 3px 3px 3px lightcoral;
+ }
+
+#section-a .card img:hover{
+    opacity: 0.3;
+
+}
+/*section-b styles*/
+#section-b{
+    background-color: pink;
+    text-align: center;
+    font-family: monospace;
+    color:white;
+    background-image: url("../images/pic15.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height:80vh;
+    padding-top:90px;
+
+}

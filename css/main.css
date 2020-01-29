@@ -38,3 +38,25 @@
     padding-top:90px;
 
 }
+/*styling the login and sign up forms*/
+.auth-signup{
+    padding:20px;
+    border-radius:10px;
+    box-shadow:3px 3px 3px 3px #333333;
+}
+.auth-signup img{
+    width:270px;
+    height:300px;
+    border-radius:70%;
+    margin-right:99%;
+    padding:5px;
+}
+.auth-signup.content-title{
+    text-align:center;
+    font-family:monospace;
+
+}
+.auth-signuphr{
+    padding: 2px;
+    margin:0;
+}

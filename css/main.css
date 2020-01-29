@@ -40,15 +40,16 @@
 }
 /*styling the login and sign up forms*/
 .auth-signup{
+    background-color:lightpink;
     padding:20px;
     border-radius:10px;
     box-shadow:3px 3px 3px 3px #333333;
 }
 .auth-signup img{
-    width:270px;
-    height:300px;
-    border-radius:70%;
-    margin-right:99%;
+    width:250px;
+    height:390px;
+    border-radius:100%;
+    margin-right:160px;
     padding:5px;
 }
 .auth-signup.content-title{
